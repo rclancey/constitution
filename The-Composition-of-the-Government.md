@@ -2,7 +2,7 @@ The experience of the governing structures of the United States has shown that t
 
 However, the notion of checks and balances within governing structures has value in curbing the excesses of absolute authority. So we invest the legislative power in a Parliament, which is responsible for drafting, enacting and carrying out the law. In a Senate, we invest the power to veto acts of Parliament. And finally, we invest in a Supreme Court the power to invalidate acts of Parliament that run afoul of provisions of this constitution, to settle disputes between conflicting provisions in the law, and to protect the rights of the people from the privations of authoritarian government.
 
-> The government shall consist of three bodies, the [Parliament](./Composition-of-Parliament), the [Senate](./Composition-of-the-Senate), and the [Supreme Court](./Composition-of-the-Judiciary).
+> The government shall consist of three bodies, the [Parliament](./Composition-of-Parliament.md), the [Senate](./Composition-of-the-Senate.md), and the [Supreme Court](./Composition-of-the-Judiciary.md).
 
 ## Parliament
 
