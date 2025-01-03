@@ -90,3 +90,18 @@ With an integral number of seats, and no fractional representation, we must devi
 > 
 > Where <math><mrow><mi>P</mi></mrow></math> is the party's priority, <math><mrow><mi>V</mi></mrow></math> is the number of votes received by the party, and <math><mrow><mi>n</mi></mrow></math> is the number of seats currently allocated to the party.
 
+## Constitutional Ratification
+
+This Constitution is meant to be a living document, and should continually be updated to meet the needs of the governed. Amending the Constitution should not be so difficult that it atrophies, and not so easy that it becomes unstable under shifting winds of political preferences. Changes to the Constitution should be in the hands of the people themselves, not just their representatives.  The Senate, as the most body most directly representative of ordinary people, should be responsible for negotiating and proposing changes to the Constitution, and these changes should be subject to the approval of a majority of the governed, but without the influence of the passions of the moment.
+
+Therefore:
+
+> [!IMPORTANT]
+> The Senate shall establish a committee to consider amendments to this Constitution. Any amendment offered by this committee shall be put to a vote of the full Senate within 90 days. If adopted by a majority of the full Senate, the Parliament shall have 180 days to consider the amendment. If adopted by a majority of Parliament, the amendment shall be put to a vote of the people. Should the amendment be agreed to by a majority of those voting in each of the next two general elections, the amendment shall come into force at the opening of the next Parliamentary term.
+
+While this Constitution may be ratified by the people of today, that does not indicate the consent of future generations to be goverened under the same terms. The people should have the opportunity to regularly express whether or not they wish to alter or abolish the system under which they are governed.
+
+Therefore:
+
+> [!IMPORTANT]
+> At each general election, a question shall be put to the electorate as to whether the Constitution shall remain in force. Should a majority of those voting revoke their consent to be goverened under this Constitution, the Senate shall draft a new Constitution, to be put to a vote of the people no earlier than 180 days, nor one year after the full Senate agrees to a new Constitutional proposal, along with an independent question of whether to re-ratify this Constitution. Should a new Constitution be adopted by a majority of the voters, and by a larger number of votes in favor of this Constitution, the new Constitution shall immediately be in effect upon certification of the vote. Until either a new Constitution is adopted, or this Constitution be re-ratified, this Constitution shall remain in force. If no Constitution is ratified within ten years, this Constitution shall cease to be in force, and the powers of government shall devolve to provincial governments.
