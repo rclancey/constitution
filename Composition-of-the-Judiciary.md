@@ -1,7 +1,6 @@
-~~The judiciary primarily composed of local court districts and judges, who oversee civil and criminal trials. In any trial court proceeding, all parties have the right to have an impartial jury of their peers as finders of fact. The role of the judge is to assemble an impartial jury, instruct the jury as to how the law is to be applied, manage the evidence and testimony presented to the jury, as provided by law, and to ensure that all parties abide by procedures set forth by Parliament. A single court should have several judges, but each case should be randomly assigned to a single judge.~~
+The judiciary is primarily composed of local district courts and judges, who oversee civil and criminal trials. Similarly, administrative courts handle the sorts of legal business that don't require a jury to adjudicate the facts, but do require judicial oversight and approval.
 
-
-Courts of appeal, as the name would suggest, handle appeals to the rulings of trial and administrative court judges, and jury verdicts. They may reverse (or uphold) applications of law by judges, and may only reverse findings of fact by juries when doing so would grant relief to a defendant in a criminal proceeding. A single appeals court is to be made up fifteen judges, but all appeals originate with a randomly assigned panel of three judges. Any time this panel is not unanimous in its decision, the losing party is entitled to an en banc hearing from the entire appeals court.
+Above the trial and administrative courts, sit courts of appeal.  As the name would suggest, these courts handle appeals oo the rulings of trial and administrative court judges, and jury verdicts. They may reverse (or uphold) applications of law by judges. In order to uphold the notion that a person should not face criminal prosecution for the same offense more than once, and the notion that it is better to let a thousand guilty people go free than to wrongly imprison a single innocent, the appeals court may only reverse findings of fact by juries when doing so would grant relief to a defendant in a criminal proceeding.
 
 The Supreme Court is the final court of appeal. The Supreme Court may also review acts of Parliament for compliance with the requirements of this Constitution. The threshold for striking down acts of Parliament should be somewhat higher than for standard for regular judicial matters. In the event that the court nullifies an act of Parliament, Parliament must have the opportunity to overrule the court's decision.
 
@@ -46,13 +45,6 @@ Criminal prosecutions should be brought in the district where the crime allegedl
 >
 > No subpoena or summons to produce evidence or testimony shall be issued without the consent of the Trial Court judge overseeing the matter in which such evidence or testimony is required.
 
-~~ Administrative law matters shall originate in the Administrative Law Court district in which the initiating party claims his or her primary residence, or in which the initiating party proposes to engage in covered conduct.~~
-~~Trial Court districts, Administrative Law Court . Criminal charges shall be tried in the district in which the offense is alleged to have occurred. Civil suits shall be tried in the district in which the conduct at issue is alleged to have occurred.~~
-
-> Parliament shall establish geographic districts for Trial Courts. Each Trial Court district shall be assigned no fewer than fifteen judges, or any larger number that Parliament shall direct. 
-
-~~The judiciary primarily composed of local court districts and judges, who oversee civil and criminal trials. In any trial court proceeding, all parties have the right to have an impartial jury of their peers as finders of fact. The role of the judge is to assemble an impartial jury, instruct the jury as to how the law is to be applied, manage the evidence and testimony presented to the jury, as provided by law, and to ensure that all parties abide by procedures set forth by Parliament. A single court should have several judges, but each case should be randomly assigned to a single judge.~~
-
 ### Administrative Law Courts
 
 Adjascent to trial courts are administrative law courts. These courts are responsible for judicial oversight of administrative matters like contracts, family law (including marriage, divorce and adoption), probate, competency and licensing.
@@ -81,9 +73,11 @@ Rulings from trial courts and administrative law courts are subject to appeal. A
 
 ## The Supreme Court
 
-The Supreme Court is the final court of appeal.
+The Supreme Court is the final court of appeal. Its primary purpose is judicial review of the law for conformance to Constitutional requirements. It also has final say over criminal convictions and sentences and penalties assessed in civil suits. With such immense power, it must be subject to some rigorous checks. Composed of 15 members with staggered 15 year terms (one judge's term expiring each year), over the course of two Parliamentary terms, the majority of the judges will be replaced, which gives the Parliament, and therefore the electorate, a strong hand in controlling any usurpations by the court.
 
 > The Supreme Court shall be the court of final appeal. It shall be composed of fifteen mambers. It shall hear all appeals in cases of Treason, findings of Constitutional defect in Acts of Parliament, and any other case which any three of its judges agree to hear.
+>
+> Rulings establishing binding precedent shall be supported by three fifths of the members of the Supreme Court. Such precedents shall be binding upon inferior Courts, but no future Supreme Court shall be bound by an earlier Court's ruling.
 >
 > Supreme Court judges shall be appointed by the Prime Minister, subject to the consent of Parliament and three fifths of the Senate, and shall serve a term of fiteen years, with one judge's term expiring each year at midnight on the first day of October. Supreme Court judges may be removed from office upon impeachment by Parliament and concurrence of three fifths of the Senate, for malfeassance in office or willful misapplication of law.
 >
@@ -99,7 +93,7 @@ In cases where the laws enacted by a province, county or municipality conflict w
 
 When an executive rule or regulation exceeds the authority delegated by Parliament, the court should defer to Parliament.
 
-When an act of Parliament, or any lower legislature, or any executive regulation runs afoul of a provision of this Constitution, the courts may invalidate those laws or regulations. However, only the Supreme Court should be able to overturn acts of Parliament or its executive, and Parliament should have the opportunity to overrule the court's judgment in such cases.
+When an act of Parliament, or any lower legislature, or any executive regulation runs afoul of a provision of this Constitution, the courts may invalidate those laws or regulations. However, only the Supreme Court should be able to overturn acts of Parliament or its executive, and with a higher threshold than for other matters. Parliament should have the opportunity to overrule the court's judgment in such cases.
 
 > A Trial Court may issue a finding that an Act of an inferior legislature or its executive violates the law or Constitution of a superior legislature. Such a finding shall have no force of law unless affirmed by the Court of Appeal with jurisdiction over the Trial Court, and not overruled by the Supreme Court.
 >
@@ -110,43 +104,3 @@ When an act of Parliament, or any lower legislature, or any executive regulation
 > A Trial Court may issue a finding that an Act of Parliament or any rule or regulation promulgated by an executive agency violates one or more provisions of this Constitution. Such a finding shall have no force in law unless affirmed by the Supreme Court. A finding of Constitutional defect with an Act of Parliament shall require the concurrence of three fifths of the members of the Supreme Court. Parliament may overrule such a finding with a vote of two thirds of its members within thirty days of such a finding, otherwise the entirety of the Act in question shall be nullified.
 >
 > All other cases may before the Supreme Court shall be decided by a majority of its members. Where no majority can be found, the ruling on appeal shall stand, without force of precedent.
-
-
-
-
-
-
-
-
-
-
-
-
-
-~~Parliament shall establish Courts of Appeal, which shall have original appellate jurisdiction over the Trial and Administrative Law courts as Parliament shall direct. A Court of Appeal shall be composed of fifteen judges. In all cases brought before a Court of Appeals, a panel of three judges randomly assigned by a method determined by Parliament shall hear all matters under appeal. Should the panel fail to reach a unanimous decision on any matter under appeal, the losing party shall be entitled to an en banc hearing from the entire Court.~~
-
-Trial Court districts, Administrative Law Court . Criminal charges shall be tried in the district in which the offense is alleged to have occurred. Civil suits shall be tried in the district in which the conduct at issue is alleged to have occurred.
->
-> A Trial Court shall have assigned to it no fewer than fifteen judges, and as many more as Parliament shall direct. In any case brought before a Trial Court, one of its judges shall be randomly assigned, via a method determined by Parliament.
->
-> All parties to a case before a Trial Court have a right to trial by an impartial jury of their peers. The judge shall be the trier of law, and the jury the trier of fact. A jury shall be composed of twelve members and three alternates. In any criminal proceding, a jury's finding of fact, including a verdict of guilt or innocence, must be unanimous, and beyond reasonable doubt. In any civil proceding, a jury's finding of fact must be supported by at least nine jurors and by a preponderance of the evidence.
->
-> A Trial Court may issue a finding that an Act of Parliament violates one or more prvisions of this Constitution. Such a finding shall have no force of law unless affirmed by the Supreme Court.
->
-> A Trial Court may also issue a finding that a rule or regulation promulgated by an executive agency, or an Act of an inferior legislature is in violation of either this Constitution, or of an Act of Parliament. Such a finding is subject to appeal but shall be binding across the Trial Court district unless reversed by the Court of Appeal with jurisdiction, or the Supreme Court.
-
-> Parliament shall establish Administrative Law Court districts. Administrative matters shall be handled in the district in which the initiating party claims as his or her primary residence, or in the district in which the initating party proposes to engage in covered conduct.
-
-> Parliament shall establish Courts of Appeal, which shall have original appellate jurisdiction over the Trial and Administrative Law courts as Parliament shall direct. A Court of Appeal shall be composed of fifteen judges. In all cases brought before a Court of Appeals, a panel of three judges randomly assigned by a method determined by Parliament shall hear all matters under appeal. Should the panel fail to reach a unanimous decision on any matter under appeal, the losing party shall be entitled to an en banc hearing from the entire Court.
->
-> A Court of Appeal may reverse or uphold any ruling of law, but shall only reverse a finding of fact to grant relief to the accused in a criminal proceeding.
-> 
-> Parliament may establish a procedure whereby Trial Court findings of Constitutional defect in Acts of Parliament may be reviewed by Courts of Appeal.
-> 
-> Should a Court of Appeal affirm a finding from a Trial Court that a rule or regulation promulgated by an executive agency, or an Act of an inferior legislature is in violation of either this Constitution, or of an Act of Parliament, such a finding shall be binding on Trial Court districts within the jurisdiction of the Court of Appeal.
-
-> The Supreme Court shall be the court of final appeal. It shall be composed of fifteen mambers. It shall hear all appeals in cases of Treason, findings of Constitutional defect in Acts of Parliament, and any other case which any three of its judges agree to hear.
->
-> A finding of Constitutional defect with an Act of Parliament shall require the concurrence of three fifths of the members of the Supreme Court. Parliament may overrule such a finding with a vote of two thirds of its members within thirty days of such a finding, otherwise the entirety of the Act in question shall be nullified. All other cases may be decided by a majority vote.
->
-> Should the Supreme Court affirm a finding from an inferior court that a rule or regulation promulgated by an executive agency
