@@ -13,6 +13,7 @@ Executive power is similarly vested in Parliament. However, Parliament may deleg
 
 As with all legislative bodies, Parliament is comprised of single member districts, and party list representatives, in a mixed member proportional system. Parliament is responsible for determining the total number of district representatives, with the limitation that no district may contain more than 500,000 residents, nor fewer than 250,000. The total number of party list seats will always be equal to the number of district seats.
 
+> [!IMPORTANT]
 > _**As a legislative body, Parliament shall consist of an equal number of representatives elected by geographical districs and representatives elected by party list.**_
 
 > Parliament shall determine the number of districts, and their boundaries, with the additional restriction that districts may not contain more than 500,000 residents, nor fewer than 250,000 residents. As with all legislative bodies, district boundaries must be continuous and contiguous, compact, and respect existing community boundaries where possible, while restricting the ratio of the population of the largest district to the population of the smallest district to no larger than 1.05.
@@ -61,17 +62,12 @@ Parliament may be disolved early by the Senate, or at the end of its term follow
 
 In order to be effective as legislators, we expect a certain degree of experience and understanding of policy for members of Parliament.
 
-> No person may serve in Parliament who has not reached the age of 25 years.
-
-> No person may serve in Parliament who has been convicted of a felony.
-
-> No person may serve in Parliament who has previoiusly held any office of trust under a foreign government.
-
-> No person may serve in Parliament while simultaneously serving in the armed forces.
-
-> No person may serve in Parliament while simultaneously serving in another legislative body.
-
-> No person may serve in Parliament while simultaneously serving as a judge on any court.
+> * No person may serve in Parliament who has not reached the age of 25 years.
+> * No person may serve in Parliament who has been convicted of a felony.
+> * No person may serve in Parliament who has previoiusly held any office of trust under a foreign government.
+> * No person may serve in Parliament while simultaneously serving in the armed forces.
+> * No person may serve in Parliament while simultaneously serving in another legislative body.
+> * No person may serve in Parliament while simultaneously serving as a judge on any court.
 
 ## Organization
 
