@@ -80,15 +80,16 @@ As previously stated, the number of parties in the legislature should be limited
 > A legislative body may set the following qualifications for parties to recieve list seats:
 > 1. The number of parties recieving list seats may be directly capped at some number of the most popular parties, but this number may be no less than six.
 > 1. The minimum vote share necessary for a party to receive list seats may be set to a value no lower than ten percent.
-> 1. If the parties that qualify based on the thresholds set forth by the legislature constitute less than eighty percent of the total vote, additional parties, in order of vote share, shall receive list seats until eighty percent of the votes are represented.
+> 1. If the parties that qualify based on the thresholds set forth by the legislature constitute less than eighty percent of the total vote, additional parties, in order of decreasing vote share, shall receive list seats until at least eighty percent of the votes are represented.
 
 With an integral number of seats, and no fractional representation, we must devise a method for dividing party list seats in a manner such that the integral number of seats allocated to each party is a as close as possible to the share of the vote that each party receives. We find that the [method of equal proportions](https://en.wikipedia.org/wiki/Huntington%E2%80%93Hill_method) arrives at the fairest allocation of seats.
 
 > Party seats shall be allocated using the method of equal proportions. Initially, each party will be allocated the number of seats won in district elections. Then any party with no district-based seats that qualified for list seats shall be allocated one seat. The remaining seats shall be allocated one at a time to the party with the highest priority, with priority defined as the ratio of the number of votes the party received to the geometric mean of of the number of seats the party is currently assigned and the number of seats the party would be assigned if the next seat were allocated to the party. Mathematically, this can be expressed as
-> 
+> $P = V / \sqrt{n (n+1)}$
+>
 > <math><mrow><mi>P</mi><mo>=</mo><mfrac><mrow><mi>V</mi></mrow><mrow><msqrt><mi>n</mi><mo>(</mo><mi>n</mi><mo>+</mo><mn>1</mn><mo>)</mo></msqrt></mrow></mfrac></mrow></math>
-> 
-> Where <math><mrow><mi>P</mi></mrow></math> is the party's priority, <math><mrow><mi>V</mi></mrow></math> is the number of votes received by the party, and <math><mrow><mi>n</mi></mrow></math> is the number of seats currently allocated to the party.
+>
+> Where $P$ is the party's priority, $V$ is the number of votes received by the party, and $n$ is the number of seats currently allocated to the party.
 
 ## Constitutional Ratification
 
